@@ -1,0 +1,29 @@
+List of libraries and frameworks (Research others and fill in)
+In alphabetical order
+
+A - Angular
+B - Backbone
+C - Createjs
+D - D3, Dojo
+E - Ember, Express
+F - Freewall
+G -
+H - 
+I - 
+J - jQuery, json
+K - 
+L - 
+M - MongoDB
+N - Nodejs
+O - 
+P - 
+Q - 
+R - React, Requestjs
+S -  
+T - 
+U - 
+V - 
+W - 
+X - 
+Y - 
+Z -
