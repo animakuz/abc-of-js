@@ -1,29 +1,32 @@
 List of libraries and frameworks (Research others and fill in)
 In alphabetical order
 
-A - Angular
-B - Backbone
-C - Createjs
-D - D3, Dojo
+A - Angular, Animate.css, Anime
+B - Backbone, Babel, Bower
+C - Createjs, Chart.js, Coffescript, Chartist.js
+D - D3, Dojo, Dropzone
 E - Ember, Express
-F - Freewall
-G -
-H - 
-I - 
-J - jQuery, json
-K - 
-L - 
-M - MongoDB
+F - Freewall, Foundation, Faker.js, Fastclick, Fabric.js
+G - Gulp, Grunt
+H - Handlebars.js, Highcharts, Howler
+I - Ionic
+J - jQuery, JSON, Jasmine, Jade, JSHint, JS PDF
+K - Knockout
+L - Leaflet, Less.js, Lodash
+M - Moment, MongoDB, Meteor, Materialize, Modernizer, Mocha
+    Mustache, Mithril.js
 N - Nodejs
 O - 
-P - 
-Q - 
-R - React, Requestjs
-S -  
-T - 
-U - 
-V - 
-W - 
+P - Phantomjs, Pixi.js, Phaser, Polymer, Protactor, Parsley.js
+Q - Q
+R - React, Requestjs, Redux, Reveal.js, Relay, Ratchet
+S - Socket.io, Slick, Swiper, Sweetalert, Sortable, Skrollr
+T - Three.js, Typeahead.js
+U - Underscore
+V - Video.js, Vue, Velocity
+W - Webpack
 X - 
-Y - 
-Z -
+Y - Yarn
+Z - Zepto
+
+[Source] - Javascript Database (www.javascripting.com) 
