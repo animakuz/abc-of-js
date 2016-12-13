@@ -2,31 +2,35 @@ List of libraries and frameworks (Research others and fill in)
 In alphabetical order
 
 A - Angular, Animate.css, Anime
-B - Backbone, Babel, Bower
-C - Createjs, Chart.js, Coffescript, Chartist.js
-D - D3, Dojo, Dropzone
-E - Ember, Express
-F - Freewall, Foundation, Faker.js, Fastclick, Fabric.js
-G - Gulp, Grunt
-H - Handlebars.js, Highcharts, Howler
-I - Ionic
-J - jQuery, JSON, Jasmine, Jade, JSHint, JS PDF
-K - Knockout
-L - Leaflet, Less.js, Lodash
+B - Bootstrap, Backbone, Babel, Bower, Babylon.js
+C - Createjs, Chart.js, Coffeescript, Chartist.js, Count Up.js
+D - D3, Dojo, Dropzone, Datatables, Dynamics.js
+E - Ember, Express, Elevator JS
+F - Freewall, Foundation, Faker.js, Fastclick, Fabric.js, Fuse
+    FancyBox, Featherlight, FullCalendar
+G - Gulp, Grunt, Globalize, Gif.js
+H - Handlebars.js, Highcharts, Howler, Hello.js
+I - Ionic, Impress.js, Interactjs, Inferno, Intercooler Js
+J - jQuery, JSON, Jasmine, Jade, JSHint, JS PDF, JPlayer
+K - Knockout, Kendo, Kinetic JS, Kute.js
+L - Leaflet, Less.js, Lodash, Light Gallery
 M - Moment, MongoDB, Meteor, Materialize, Modernizer, Mocha
-    Mustache, Mithril.js
-N - Nodejs
+    Mustache, Mithril.js, Matterjs, Mixitup
+N - Nodejs, Numeral
 O - 
 P - Phantomjs, Pixi.js, Phaser, Polymer, Protactor, Parsley.js
+    Peerjs, Papa Parse, Progressbar.js, Parallax
 Q - Q
-R - React, Requestjs, Redux, Reveal.js, Relay, Ratchet
+R - React, Requestjs, Redux, Reveal.js, Relay, Ratchet, Ramda
+    Raphael, 
 S - Socket.io, Slick, Swiper, Sweetalert, Sortable, Skrollr
-T - Three.js, Typeahead.js
+    Snap.js
+T - Two.js, Three.js, Typeahead.js, Timeline.js
 U - Underscore
 V - Video.js, Vue, Velocity
 W - Webpack
 X - 
-Y - Yarn
+Y - Yarn, YUI
 Z - Zepto
 
 [Source] - Javascript Database (www.javascripting.com) 
