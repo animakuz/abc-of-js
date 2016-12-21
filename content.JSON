@@ -1,0 +1,17 @@
+/* 
+  A-B-C of Javascript
+
+  JSON file containing all content (information on different
+  libraries and frameworks)
+
+*/
+
+[
+  {
+    "name": "Angular",
+    "function": "MVC framework",
+    "description": "Angular is a javascript MVC framework created by google"
+  }
+
+
+]
